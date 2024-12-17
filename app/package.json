@@ -61,7 +61,7 @@
     "tailwindcss-animate": "^1.0.6",
     "use-debounce": "^9.0.4",
     "uuid": "^9.0.0",
-    "zod": "^3.21.4"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "@playwright/test": "^1.36.2",
